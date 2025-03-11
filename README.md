@@ -12,11 +12,12 @@ This project analyzes sales data for a cafe. The primary goals include:
 - Pandas
 - Matplotlib / Seaborn (for visualization)
 - Jupyter Notebook
-Images/![Image](https://github.com/user-attachments/assets/0f302054-e94e-4643-b511-a931138ecfe4)
+Images/
 ## Usage
 Run the `Cafe.ipynb` notebook in Jupyter to execute the analysis. The dataset should be provided in the appropriate format.
 
-![Sales Analysis Graph](images/graph.png)
+![Image](https://github.com/user-attachments/assets/0f302054-e94e-4643-b511-a931138ecfe4)
+
 
 
 # Movie Dataset Analysis
