@@ -1,28 +1,31 @@
-# Shrutis-Portfolio
-# 🚀 Data Science Portfolio  
+# ☕ Cafe Sales Data Analysis
 
-Welcome to my portfolio! I am an aspiring Data Scientist with a background in Python development and business analytics. Here, you'll find projects showcasing my skills in data analysis, machine learning, and visualization.
+## 📌 Project Overview
+This project analyzes cafe sales data to extract meaningful insights. The main objectives include:
+- Counting **unique menu items** and determining their **price per unit**
+- Calculating the **average units sold per product**
+- Handling **missing values** in the dataset to improve data quality
 
-## 📂 Featured Projects  
+## 📊 Dataset
+The dataset contains sales transactions from a cafe, including:
+- `Item`: Name of the product sold
+- `Price`: Price per unit
+- `Quantity Sold`: Number of units sold per transaction
+- Missing values in some entries
 
-🔹 **Sales Forecasting Model**  
-*Predicting future sales trends using historical data with Python & Scikit-learn.*  
-[🔗 View Project](https://github.com/yourusername/sales-forecasting)  
+## 🔧 Tools & Technologies Used
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Jupyter Notebook**
+- **Data Cleaning & Processing**
 
-🔹 **Customer Segmentation Analysis**  
-*Clustering customers based on purchasing patterns using K-Means in Python.*  
-[🔗 View Project](https://github.com/yourusername/customer-segmentation)  
+## 🚀 Key Findings
+- Identified **top-selling items** and their contribution to revenue.
+- Calculated **average units sold per item** for demand analysis.
+- Applied **data cleaning techniques** to fill missing values and ensure accuracy.
 
-🔹 **Interactive Sales Dashboard**  
-*Built an interactive dashboard using Tableau & SQL for business insights.*  
-[🔗 View Project](https://github.com/yourusername/sales-dashboard)  
 
-## 🛠️ Skills  
-- Python, Pandas, NumPy, Scikit-learn  
-- SQL, Data Analysis, Machine Learning  
-- Data Visualization (Matplotlib, Seaborn, Tableau)  
-- Business Analytics & Forecasting  
 
-## 📫 Contact Me  
-- LinkedIn: [https://www.linkedin.com/in/shruti-patel-2ab78915b/](https://www.linkedin.com/in/shruti-patel-2ab78915b/))  
-- Email: shrutiever.sp@gmail.com
+## 📬 Contact
+For any questions, feel free to reach out:
+- LinkedIn: [yourprofile](https://linkedin.com/in/yourname)
+- Email: your.email@example.com
