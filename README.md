@@ -24,5 +24,5 @@ Welcome to my portfolio! I am an aspiring Data Scientist with a background in Py
 - Business Analytics & Forecasting  
 
 ## 📫 Contact Me  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- Email: your.email@example.com  
+- LinkedIn: [https://www.linkedin.com/in/shruti-patel-2ab78915b/](https://www.linkedin.com/in/shruti-patel-2ab78915b/))  
+- Email: shrutiever.sp@gmail.com
